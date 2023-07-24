@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.venomverse.ar_test_2.app-mergeDebugResources-13:/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "/Users/olinda/.gradle/caches/transforms-3/b2f5208f21a475b2dd034dfe3b518326/transformed/jetified-core-1.38.0/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,297,443,596",
+                        "endColumns": "52,53,145,152,90",
+                        "endOffsets": "242,296,442,595,686"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,170,320,477",
+                        "endColumns": "56,57,149,156,94",
+                        "endOffsets": "107,165,315,472,567"
+                    }
+                },
+                {
+                    "source": "/Users/olinda/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "572",
+                        "endColumns": "100",
+                        "endOffsets": "668"
+                    }
+                }
+            ]
+        }
+    ]
+}
